@@ -1,0 +1,6 @@
+npm config set registry http://registry.npm.taobao.org
+vue init webpack-simple mint-demo
+cd mint-demo
+cnpm install
+npm run dev
+cnpm install mint-ui -D
